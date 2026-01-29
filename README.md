@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### Tech Stack
-![Java](https://img.shields.io/badge/Java-17/21-ED8B00?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x/4.x-6DB33F?logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000?logo=apachekafka)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17/21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x/4.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Статистика
 <!--![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=NikRom5531&show_icons=true&theme=radical)-->
